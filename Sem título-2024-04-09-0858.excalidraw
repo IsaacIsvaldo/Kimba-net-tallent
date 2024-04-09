@@ -1,0 +1,81 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "A5Bvv4px2rKvpPG1ztvi4",
+      "type": "rectangle",
+      "x": 611.3333740234375,
+      "y": 240.33333841959637,
+      "width": 140.6666259765625,
+      "height": 81.33332824707031,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1564158048,
+      "version": 80,
+      "versionNonce": 2006306208,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "gFhfIJTxEfL6gVvKlq15O"
+        }
+      ],
+      "updated": 1712649592936,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "gFhfIJTxEfL6gVvKlq15O",
+      "type": "text",
+      "x": 627.7067260742188,
+      "y": 256.00000254313153,
+      "width": 107.919921875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1316710496,
+      "version": 20,
+      "versionNonce": 359841184,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1712649603952,
+      "link": null,
+      "locked": false,
+      "text": "Kimba Net \nTallent ",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "A5Bvv4px2rKvpPG1ztvi4",
+      "originalText": "Kimba Net Tallent ",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
